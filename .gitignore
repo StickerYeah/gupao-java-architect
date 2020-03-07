@@ -33,7 +33,6 @@ hs_err_pid*
 target
 
 # temp ignore
-*.log
 *.cache
 *.diff
 *.patch
